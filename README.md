@@ -5,4 +5,4 @@
 * работа со звуком
 * работа с Fullscreen API
 
-Протестировать приложение и просто поиграть в одну октаву :) можно [здесь](https://rolling-scopes-school.github.io/ekahvo-JSFE2021Q1/virtual-piano)
+Протестировать приложение и просто поиграть в одну октаву :) можно [здесь](https://ekahvo.github.io/virtual-piano/)
